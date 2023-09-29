@@ -1,10 +1,10 @@
 # Projeto-Estatistica
 Repositório destinado ao armazenamento do código relacionado ao projeto da disciplina IF-971, Estatística e Probabilidade para computação.
 
-#Objetivo do projeto
+# Objetivo do projeto
 Realizar uma análise minuciosa da amostra dos dados e obter conclusões a partir da utilização de ferramentas aprendidas em sala de aula.
 
-#Grupo
+# Grupo
 - Cauê Marinho
 - Maria Beatriz
 - Mille Amorim
